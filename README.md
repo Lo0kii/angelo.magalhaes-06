@@ -15,6 +15,7 @@ Script Python pour l'Automatisation
 resultat: 
 
 menu: 
+
 ![image](https://github.com/Lo0kii/angelo.magalhaes-06/assets/109228312/6059c141-459e-41d4-a310-930330ef3cc4)
 
 choix 1: 
@@ -25,5 +26,5 @@ choix2:
 
 ![image](https://github.com/Lo0kii/angelo.magalhaes-06/assets/109228312/db922aad-dcd7-48a0-add6-6ef1fba65e64)
 
-
+le 3eme choix c'est pour quitter :)
 
